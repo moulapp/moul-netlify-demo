@@ -1,0 +1,12 @@
+
+[deployment]
+  target = "netlify"
+
+[profile]
+name = "Phearak S. Tha"
+bio = "Software Engineer • Photographer"
+
+[social]
+twitter = "thasophearak"
+github = "thasophearak"
+youtube = "thasophearak"
